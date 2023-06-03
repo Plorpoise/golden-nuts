@@ -2,3 +2,4 @@ pytest
 behave
 pandas
 tkinter
+matplotlib
